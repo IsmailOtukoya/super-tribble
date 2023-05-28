@@ -12,7 +12,6 @@ Implementing the CNN model for language detection is made easy with the popular 
 
 The CNN model for language detection demonstrates impressive accuracy by leveraging the powerful feature extraction capabilities of convolutional layers. By utilizing deep learning techniques, developers and researchers can enhance their language processing applications with more robust and flexible language identification capabilities.
 
-Feel free to explore my GitHub repository, experiment with different datasets, and customize the CNN model according to your language detection needs. I encourage collaboration, feedback, and contributions to further advance the language detection capabilities provided by CNNs.
 
 
 
@@ -22,7 +21,6 @@ Keywords: language detection, CNN, Convolutional Neural Networks, deep learning,
 
 
 
-Regenerate response
 
 
 
